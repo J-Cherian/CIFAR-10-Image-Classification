@@ -5,7 +5,7 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 ## Cloning the Repository
 To clone the repository:
 ```sh
-git clone https://github.com/J-Cherian/CNN-model.git
+git clone https://github.com/J-Cherian/CIFAR-10-Image-Classification.git
 ```
 
 ## Model Architecture
